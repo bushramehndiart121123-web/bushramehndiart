@@ -35,7 +35,7 @@ export default function Footer() {
           <h4 className="gold">Contact Us</h4>
           <p><FaPhoneAlt /> {CALLING_NUMBER}</p>
           <p><FaEnvelope /> {EMAIL}</p>
-          <p><FaWhatsapp /> +91 98765 43210</p>
+          <p><FaWhatsapp /> {WHATSAPP_NUMBER}</p>
         </div>
 
         {/* Social Media */}
