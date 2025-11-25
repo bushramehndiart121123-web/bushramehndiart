@@ -1,6 +1,8 @@
 import React from "react";
 import "./Contact.css";
 import { WHATSAPP_NUMBER, EMAIL,YOUTUBE_LINK, ADDRESS, INSTAGRAM_LINK,CALLING_NUMBER, WHATSAPP_MESSAGE,GOOGLE_MAP_LINK} from "../constant";
+import { FaInstagram, FaWhatsapp, FaYoutube, FaEnvelope, FaPhone, FaMapMarkerAlt } from "react-icons/fa";
+
 
 export default function Contact() {
 const whatsappText = encodeURIComponent(
@@ -38,14 +40,14 @@ const whatsappURL = `https://wa.me/${WHATSAPP_NUMBER}?text=${whatsappText}`;
 
           <h3 className="section-heading">Reach Us</h3>
 
-          <p className="info-item"><span>📍 Address:</span> {ADDRESS}</p>
-          <p className="info-item"><span>📞 Mobile:</span> {CALLING_NUMBER}</p>
-          <p className="info-item"><span>📧 Email:</span> {EMAIL}</p>
+         <p className="info-item"><FaMapMarkerAlt /> Address: {ADDRESS}</p>
+<p className="info-item"><FaPhone /> Mobile: {CALLING_NUMBER}</p>
+<p className="info-item"><FaEnvelope /> Email: {EMAIL}</p>
 
           <div className="social-icons">
-            <a href={INSTAGRAM_LINK} className="social-icon">📸 Instagram</a>
-            <a href={urlWhatsapp} className="social-icon" target="_blank">💬 WhatsApp</a>
-            <a href={YOUTUBE_LINK} className="social-icon">📘 youtube</a>
+    <a href={INSTAGRAM_LINK} className="social-icon"><FaInstagram /> Instagram</a>
+  <a href={urlWhatsapp} className="social-icon" target="_blank"><FaWhatsapp /> WhatsApp</a>
+  <a href={YOUTUBE_LINK} className="social-icon"><FaYoutube /> YouTube</a>
           </div>
 
           <h3 className="section-heading mt-10">Find Us on Map</h3>
