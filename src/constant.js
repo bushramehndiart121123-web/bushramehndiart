@@ -12,21 +12,20 @@ export const urlWhatsapp = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURICom
 
 
 export const bridalImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764088934/5_jvuonx.jpg", title: "Bridal Full Hand Design" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764088932/6_kbsspt.jpg", title: "Bridal Feet & Hand Design" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764088931/3_jmhgjg.jpg", title: "Custom Bridal Hand Design" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764088930/1_pfpeda.jpg", title: "Front & Back Arm Bridal Design" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764088930/4_qfriac.jpg", title: "Hands & Wrist Bridal Design" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764088929/2_kb7wcl.jpg", title: "Elegant Bridal Hand Design" },
+  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298640/6_yrminq.jpg", title: "Bridal Full Hand Design" },
+  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298639/5_xhmsno.jpg", title: "Bridal Feet & Hand Design" },
+  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298638/4_fxgrzh.jpg", title: "Custom Bridal Hand Design" },
+  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298638/3_kwl7pn.jpg", title: "Front & Back Arm Bridal Design" },
+  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298637/2_pa7qgh.jpg", title: "Hands & Wrist Bridal Design" },
+  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298637/1_zolusf.jpg", title: "Elegant Bridal Hand Design" },
 ];
 
  export  const arabicImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089165/6_kveegl.jpg", title: "Arabic Full Hand Design" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089163/5_h5yrcf.jpg", title: "Arabic Wrist & Hand Design" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089162/4_bwkuzv.jpg", title: "Elegant Arabic Hand Design" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089162/3_o7lhdc.jpg", title: "Arabic Front & Back Arm Design" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089161/1_vif52q.jpg", title: "Custom Arabic Hand Design" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089160/2_td7sjl.jpg", title: "Arabic Hands & Fingers Design" },
+  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298597/1_o76kc9.jpg", title: "Arabic Full Hand Design" },
+  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298588/2_fmjpbm.jpg", title: "Arabic Wrist & Hand Design" },
+  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298587/4_scp0ou.jpg", title: "Elegant Arabic Hand Design" },
+  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298587/3_wt7zv4.jpg", title: "Arabic Front & Back Arm Design" },
+
 ];
 
 
@@ -51,12 +50,15 @@ export const CustomizedMehendi = [
 
 
 export const EngagementRokaImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089040/6_alohjk.jpg", title: "Engagement Full Hand Design" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089039/5_wcydrc.jpg", title: "Engagement Wrist & Hand Design" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089039/1_fryt2n.jpg", title: "Elegant Engagement Hand Design" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089038/3_rdzytq.jpg", title: "Front & Back Arm Engagement Design" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089037/2_t9h2b4.jpg", title: "Custom Engagement Hand Design" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089038/4_bbhzw5.jpg", title: "Engagement Fingers & Hand Design" },
+  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298611/8_jraqnq.jpg", title: "Engagement Full Hand Design" },
+  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298611/6_pdndws.jpg", title: "Engagement Wrist & Hand Design" },
+  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298611/1_qgt5dk.jpg", title: "Elegant Engagement Hand Design" },
+  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298610/7_mpssqf.jpg", title: "Front & Back Arm Engagement Design" },
+  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298610/5_doyxvp.jpg", title: "Custom Engagement Hand Design" },
+  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298609/4_nzhr5u.jpg", title: "Wrist to Finger Mehendi Style" },
+  { id: 7, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298609/3_jaelko.jpg", title: "Full Hand Intricate Pattern Design" },
+{ id: 8, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298609/2_dcfeud.jpg", title: "Custom Floral Hand Artwork" },
+  
 ];
 
 export const FestivalImages = [
@@ -122,12 +124,16 @@ export const PortraitImages = [
 
 
 export const SangeetWeddingImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089070/1_cx8pzh.jpg", title: "Sangeet & Wedding Design 1" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089071/2_tycmlp.jpg", title: "Sangeet & Wedding Design 2" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089072/3_d5tlhp.jpg", title: "Sangeet & Wedding Design 3" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089072/4_oyhxib.jpg", title: "Sangeet & Wedding Design 4" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089073/5_otc9ft.jpg", title: "Sangeet & Wedding Design 5" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089074/6_ll9yrk.jpg", title: "Sangeet & Wedding Design 6" },
+  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298568/2_kb2odw.jpg", title: "Sangeet & Wedding Design 1" },
+  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298567/8_kswqaw.jpg", title: "Sangeet & Wedding Design 2" },
+  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298567/10_anvyln.jpg", title: "Sangeet & Wedding Design 3" },
+  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298567/10_anvyln.jpg", title: "Sangeet & Wedding Design 4" },
+  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298567/9_mnm3la.jpg", title: "Sangeet & Wedding Design 5" },
+  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298566/6_j7awx6.jpg", title: "Sangeet & Wedding Design 6" },
+  { id: 7, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298566/3_bdb2m0.jpg", title: "Sangeet & Wedding Design 7" },
+  { id: 8, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298566/1_ackrcp.jpg", title: "Sangeet & Wedding Design 8" },
+  { id: 9, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298565/4_xrjchj.jpg", title: "Sangeet & Wedding Design 9" },
+  { id: 10, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298565/5_jefbz6.jpg", title: "Sangeet & Wedding Design 10" },
 ];
 
 
