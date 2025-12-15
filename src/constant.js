@@ -1,5 +1,5 @@
-export const WHATSAPP_NUMBER = "+911234";
-export const CALLING_NUMBER="+911234";
+export const WHATSAPP_NUMBER = "+917568544608";
+export const CALLING_NUMBER="+918368184778";
 export const EMAIL = "bushramehndiart121123@gmail.com";
 export const ADDRESS = "Inderlok, Tulsi Nagar, Delhi – 110035, India";
 export const INSTAGRAM_LINK = "https://www.instagram.com/mehndiby_bushra?igsh=MTZvMGQ1NnJqcnNnZg%3D%3D&utm_source=qr";
