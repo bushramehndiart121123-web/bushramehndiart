@@ -1,4 +1,4 @@
-export const WHATSAPP_NUMBER = "+917568544608";
+export const WHATSAPP_NUMBER = "+9112345678";
 export const CALLING_NUMBER="+918368184778";
 export const EMAIL = "bushramehndiart121123@gmail.com";
 export const ADDRESS = "Inderlok, Tulsi Nagar, Delhi – 110035, India";
