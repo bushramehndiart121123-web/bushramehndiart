@@ -21,21 +21,21 @@ export const bridalImages = [
 ];
 
  export  const arabicImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298597/1_o76kc9.jpg", title: "Arabic Full Hand Design" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298588/2_fmjpbm.jpg", title: "Arabic Wrist & Hand Design" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298587/4_scp0ou.jpg", title: "Elegant Arabic Hand Design" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298587/3_wt7zv4.jpg", title: "Arabic Front & Back Arm Design" },
+  { id: 1, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766246812/2_zrbl8d.jpg" },
+  { id: 2, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766246811/4_bt7i58.jpg" },
+  { id: 3, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766246811/3_kbnyky.jpg" },
+  { id: 4, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766246811/5_kgbp0v.jpg" },
 
 ];
 
 
 export const babyShowerGodhImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089245/6_tt1ku2.jpg", title: "Baby Shower Full Hand Design" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089244/5_k54gmu.jpg", title: "Baby Shower Wrist & Hand Design" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089242/4_gmkc49.jpg", title: "Elegant Baby Shower Hand Design" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089240/3_kdn4dc.jpg", title: "Front & Back Arm Baby Shower Design" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089239/2_eexwh7.jpg", title: "Custom Baby Shower Hand Design" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089239/1_i8nd3v.jpg", title: "Baby Shower Fingers & Hand Design" },
+  { id: 1, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766246864/5_ma2dyc.jpg" },
+  { id: 2, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766246864/4_fknwae.jpg" },
+  { id: 3, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766246863/3_sz7zgs.jpg" },
+  { id: 4, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766246863/6_yq5lgf.jpg" },
+  { id: 5, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766246862/1_uu8hrp.jpg" },
+  { id: 6, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766246862/2_aluyky.jpg" },
 ];
 
 
@@ -71,23 +71,23 @@ export const FestivalImages = [
 
 
 export const IndianTraditionalImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089122/4_zox5nm.jpg", title: "Indian Traditional Full Hand Design" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089121/5_yuagqf.jpg", title: "Indian Traditional Wrist & Hand Design" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089120/2_qccmkg.jpg", title: "Elegant Indian Traditional Hand Design" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089119/6_ddfbrk.jpg", title: "Front & Back Arm Indian Traditional Design" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089119/3_aqgeb3.jpg", title: "Custom Indian Traditional Hand Design" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089119/1_k8rdeb.jpg", title: "Indian Traditional Fingers & Hand Design" },
+  { id: 1, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247740/6_sutyaa.jpg" },
+  { id: 2, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247739/1_xhjabj.jpg" },
+  { id: 3, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247739/5_cttod3.jpg" },
+  { id: 4, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247739/4_yo6rag.jpg" },
+  { id: 5, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247738/3_ppsisd.jpg" },
+  { id: 6, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247738/2_p3h0qg.jpg" },
 ];
 
 
 
 export const IndoArabicImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089440/6_ilxbhn.jpg", title: "Indo-Arabic Full Hand Design" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089439/5_dmnoer.jpg", title: "Indo-Arabic Front Hand Design" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089436/4_p31z6v.jpg", title: "Indo-Arabic Back Hand Design" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089433/3_x0vkbx.jpg", title: "Elegant Indo-Arabic Pattern" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089431/2_t57obe.jpg", title: "Indo-Arabic Wrist to Finger Design" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089429/1_zqqfzd.jpg", title: "Classic Indo-Arabic Hand Design" },
+  { id: 1, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247776/5_m7jzjg.jpg" },
+  { id: 2, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247774/4_ha0ccx.jpg" },
+  { id: 3, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247774/6_kn8ovj.jpg" },
+  { id: 4, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247772/2_dgtbxy.jpg" },
+  { id: 5, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247772/3_vj3aao.jpg" },
+  { id: 6, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247772/1_yydft9.jpg" },
 ];
 
 
@@ -113,12 +113,12 @@ export const MehendiForKidsImages = [
 
 
 export const PortraitImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089646/1_zaqigq.jpg", title: "Portrait Mehendi Design 1" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089650/2_s65bh1.jpg", title: "Portrait Mehendi Design 2" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089652/3_scnmvf.jpg", title: "Portrait Mehendi Design 3" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089655/4_tsmshu.jpg", title: "Portrait Mehendi Design 4" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089658/5_ctmgex.jpg", title: "Portrait Mehendi Design 5" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089677/6_ahr9ug.jpg", title: "Portrait Mehendi Design 6" },
+  { id: 1, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247810/6_w305jz.jpg" },
+  { id: 2, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247810/4_e8bdrv.jpg" },
+  { id: 3, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247809/5_yxb24o.jpg" },
+  { id: 4, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247809/2_ni6stp.jpg" },
+  { id: 5, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247808/3_gpeum8.jpg" },
+  { id: 6, image: "https://res.cloudinary.com/draysylxa/image/upload/v1766247807/1_tzenuf.jpg" },
 ];
 
 
