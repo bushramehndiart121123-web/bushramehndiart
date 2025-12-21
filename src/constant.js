@@ -14,7 +14,7 @@ export const urlWhatsapp = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURICom
 export const bridalImages = [
   { id: 1, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766246526/5_zbiruh.jpg" },
   { id: 2, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766246524/6_rarewj.jpg" },
-  { id: 3, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766246526/3_se3nxo.jpg" },
+  { id: 3, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338235/5_awwzle.jpg" },
   { id: 4, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766246526/2_sabq8e.jpg" },
   { id: 5, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766246524/3_jfolas.jpg" },
   { id: 6, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766246523/2_w8ql3m.jpg" },
