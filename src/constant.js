@@ -123,16 +123,13 @@ export const PortraitImages = [
 
 
 export const SangeetWeddingImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298568/2_kb2odw.jpg", title: "Sangeet & Wedding Design 1" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298567/8_kswqaw.jpg", title: "Sangeet & Wedding Design 2" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298567/10_anvyln.jpg", title: "Sangeet & Wedding Design 3" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298567/10_anvyln.jpg", title: "Sangeet & Wedding Design 4" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298567/9_mnm3la.jpg", title: "Sangeet & Wedding Design 5" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298566/6_j7awx6.jpg", title: "Sangeet & Wedding Design 6" },
-  { id: 7, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298566/3_bdb2m0.jpg", title: "Sangeet & Wedding Design 7" },
-  { id: 8, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298566/1_ackrcp.jpg", title: "Sangeet & Wedding Design 8" },
-  { id: 9, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298565/4_xrjchj.jpg", title: "Sangeet & Wedding Design 9" },
-  { id: 10, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298565/5_jefbz6.jpg", title: "Sangeet & Wedding Design 10" },
+  { id: 1, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338753/4_uborqh.jpg" },
+  { id: 2, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338753/5_ab7iun.jpg" },
+  { id: 3, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338752/4_klrdvh.jpg" },
+  { id: 4, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338753/3_vav8kd.jpg" },
+  { id: 5, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338752/3_qlih5o.jpg" },
+  { id: 6, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338750/2_ookgzw.jpg" },
+
 ];
 
 
