@@ -135,7 +135,7 @@ export const SangeetWeddingImages = [
 
 
 
-export const AboutSectionImages="https://res.cloudinary.com/dxahh0nqj/image/upload/v1764090049/1_sso6rq.jpg"
+export const AboutSectionImages="https://res.cloudinary.com/dmjbqor7r/image/upload/v1766246524/3_jfolas.jpg"
 
 
 
