@@ -184,9 +184,5 @@ export const videos = [
   "https://res.cloudinary.com/dedrf76xo/video/upload/v1766245685/5_jkfksr.mp4",
   "https://res.cloudinary.com/dedrf76xo/video/upload/v1766245663/6_ho1wtg.mp4",
   "https://res.cloudinary.com/dedrf76xo/video/upload/v1766245692/7_igrfgr.mp4",
-  "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094862/video17_ufwlci.mp4",
-  "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094857/video18_b711td.mp4",
-  "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094852/video16_cygshq.mp4",
-  "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094846/video15_u6do24.mp4",
-  "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094587/home_page_video_vvvqab.mp4"
+
 ];
