@@ -50,14 +50,13 @@ export const CustomizedMehendi = [
 
 
 export const EngagementRokaImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298611/8_jraqnq.jpg", title: "Engagement Full Hand Design" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298611/6_pdndws.jpg", title: "Engagement Wrist & Hand Design" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298611/1_qgt5dk.jpg", title: "Elegant Engagement Hand Design" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298610/7_mpssqf.jpg", title: "Front & Back Arm Engagement Design" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298610/5_doyxvp.jpg", title: "Custom Engagement Hand Design" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298609/4_nzhr5u.jpg", title: "Wrist to Finger Mehendi Style" },
-  { id: 7, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298609/3_jaelko.jpg", title: "Full Hand Intricate Pattern Design" },
-{ id: 8, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298609/2_dcfeud.jpg", title: "Custom Floral Hand Artwork" },
+  { id: 1, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338416/4_zoheue.jpg" },
+  { id: 2, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338416/3_yn4d9z.jpg" },
+  { id: 3, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338417/3_j3wjyo.jpg" },
+  { id: 4, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338415/2_mlfo3m.jpg" },
+  { id: 5, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338415/1_mbfwyo.jpg" },
+  { id: 6, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338414/2_nj4hjj.jpg" },
+  
   
 ];
 
