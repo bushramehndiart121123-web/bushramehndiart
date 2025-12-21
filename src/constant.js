@@ -12,12 +12,12 @@ export const urlWhatsapp = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURICom
 
 
 export const bridalImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298640/6_yrminq.jpg", title: "Bridal Full Hand Design" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298639/5_xhmsno.jpg", title: "Bridal Feet & Hand Design" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298638/4_fxgrzh.jpg", title: "Custom Bridal Hand Design" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298638/3_kwl7pn.jpg", title: "Front & Back Arm Bridal Design" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298637/2_pa7qgh.jpg", title: "Hands & Wrist Bridal Design" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1765298637/1_zolusf.jpg", title: "Elegant Bridal Hand Design" },
+  { id: 1, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766246526/5_zbiruh.jpg" },
+  { id: 2, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766246524/6_rarewj.jpg" },
+  { id: 3, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766246526/3_se3nxo.jpg" },
+  { id: 4, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766246526/2_sabq8e.jpg" },
+  { id: 5, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766246524/3_jfolas.jpg" },
+  { id: 6, image: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766246523/2_w8ql3m.jpg" },
 ];
 
  export  const arabicImages = [
