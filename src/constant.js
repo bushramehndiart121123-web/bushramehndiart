@@ -177,13 +177,13 @@ export const ProductsImages = [
 
 
 export const videos = [
-  "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094895/video4_i47l9v.mp4",
-  "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094891/video3_ys9r4j.mp4",
-  "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094887/video10_sk8y18.mp4",
-  "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094883/video9_mp6t3b.mp4",
-  "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094877/video11_qyexzs.mp4",
-  "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094871/video27_ian95v.mp4",
-  "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094866/video19_nihd9p.mp4",
+  "https://res.cloudinary.com/dedrf76xo/video/upload/v1766245703/1_bocbfk.mp4",
+  "https://res.cloudinary.com/dedrf76xo/video/upload/v1766245748/2_d9rclp.mp4",
+  "https://res.cloudinary.com/dedrf76xo/video/upload/v1766245694/3_ozdfdq.mp4",
+  "https://res.cloudinary.com/dedrf76xo/video/upload/v1766245660/4_ihnsgp.mp4",
+  "https://res.cloudinary.com/dedrf76xo/video/upload/v1766245685/5_jkfksr.mp4",
+  "https://res.cloudinary.com/dedrf76xo/video/upload/v1766245663/6_ho1wtg.mp4",
+  "https://res.cloudinary.com/dedrf76xo/video/upload/v1766245692/7_igrfgr.mp4",
   "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094862/video17_ufwlci.mp4",
   "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094857/video18_b711td.mp4",
   "https://res.cloudinary.com/dxahh0nqj/video/upload/f_auto,q_auto/v1764094852/video16_cygshq.mp4",
