@@ -40,12 +40,12 @@ export const babyShowerGodhImages = [
 
 
 export const CustomizedMehendi = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089239/1_i8nd3v.jpg", title: "Custom Full Hand Design" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089277/5_fiadwn.jpg", title: "Custom Wrist & Hand Design" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089275/4_szvwfu.jpg", title: "Elegant Custom Hand Design" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089274/3_n3apdj.jpg", title: "Front & Back Arm Custom Design" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089272/2_lhuv70.jpg", title: "Custom Fingers & Hand Design" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089270/1_bxhqag.jpg", title: "Premium Custom Hand Design" },
+  { id: 1, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415628/6_jwp2bf.jpg" },
+  { id: 2, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415628/5_slrhw8.jpg" },
+  { id: 3, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415628/1_nousgy.jpg" },
+  { id: 4, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415627/4_inzevy.jpg" },
+  { id: 5, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415627/3_zq26br.jpg" },
+  { id: 6, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415627/2_ms5ytw.jpg" },
 ];
 
 
@@ -61,12 +61,12 @@ export const EngagementRokaImages = [
 ];
 
 export const FestivalImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089393/6_nzgm4z.jpg", title: "Festival Full Hand Design" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089391/5_lx1ogs.jpg", title: "Festival Wrist & Hand Design" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089389/4_u0fecj.jpg", title: "Elegant Festival Hand Design" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089387/3_fw1muy.jpg", title: "Front & Back Arm Festival Design" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089385/2_endrao.jpg", title: "Custom Festival Hand Design" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089383/1_qmwtij.jpg", title: "Festival Fingers & Hand Design" },
+  { id: 1, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415639/5_gtzjl1.jpg" },
+  { id: 2, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415639/6_vnimoq.jpg" },
+  { id: 3, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415638/2_wk5iih.jpg" },
+  { id: 4, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415638/4_yw1neo.jpg" },
+  { id: 5, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415638/3_ksxz8i.jpg" },
+  { id: 6, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415637/1_erfop2.jpg" },
 ];
 
 
@@ -92,22 +92,22 @@ export const IndoArabicImages = [
 
 
 export const MehendiClassesWorkshopImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089540/6_tvouti.jpg", title: "Workshop Full Hand Practice" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089536/5_o5qbra.jpg", title: "Beginner to Advanced Practice" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089535/4_wwyujc.jpg", title: "Live Training Session Work" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089532/3_n6duxd.jpg", title: "Hands-on Workshop Design" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089529/2_qv9ort.jpg", title: "Student Practice Sheet" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089527/1_svmqmw.jpg", title: "Mehendi Training Class Art" },
+  { id: 1, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415784/6_zkbuo0.jpg" },
+  { id: 2, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415783/5_ojwp90.jpg" },
+  { id: 3, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415783/4_fatrbp.jpg" },
+  { id: 4, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415782/2_rkan2x.jpg" },
+  { id: 5, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415782/3_lpfgwn.jpg" },
+  { id: 6, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415782/1_pqh6hk.jpg" },
 ];
 
 
 export const MehendiForKidsImages = [
-  { id: 1, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764088999/1_obgrel.jpg", title: "Cute Kids Mehendi Design" },
-  { id: 2, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764088998/6_abns32.jpg", title: "Simple Kids Hand Mehendi" },
-  { id: 3, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764088998/5_r4arod.jpg", title: "Kids Arabic Style Mehendi" },
-  { id: 4, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764088997/4_h6f5ub.jpg", title: "Minimal Kids Festival Mehendi" },
-  { id: 5, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764088996/3_yyl374.jpg", title: "Kids Flower Pattern Mehendi" },
-  { id: 6, image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764088996/2_vpcc5x.jpg", title: "Kids Special Mehendi Design" },
+  { id: 1, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415659/6_svdqcc.jpg" },
+  { id: 2, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415658/5_mjmhl5.jpg" },
+  { id: 3, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415658/4_ffdp3r.jpg" },
+  { id: 4, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415657/3_kwlbbn.jpg" },
+  { id: 5, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415657/2_syyapo.jpg" },
+  { id: 6, image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415657/1_mfntb2.jpg" },
 ];
 
 
@@ -143,27 +143,27 @@ export const AboutSectionImages="https://res.cloudinary.com/dmjbqor7r/image/uplo
 export const ProductsImages = [
   {
     id: 1,
-    image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089965/nail_cone_i6qijx.jpg",
+    image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415824/nail_cone_ma6eg4.jpg",
     name: "Nail Cone",
   },
   {
     id: 2,
-    image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089959/bridal_cone_bxryn5.jpg",
+    image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415802/bridal_cone_ukadqp.jpg",
     name: "Bridal Cone",
   },
   {
     id: 3,
-    image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089956/henna_cone_mpd0zd.jpg",
+    image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415799/henna_cone_ncmgjg.jpg",
     name: "Henna Cone",
   },
   {
     id: 4,
-    image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089953/mehndi_powder_p1vgvm.jpg",
+    image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415799/mehndi_powder_dkg6pe.jpg",
     name: "Mehndi Powder",
   },
   {
     id: 5,
-    image: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089933/mehndi_oil_rfeyaz.jpg",
+    image: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415798/mehndi_oil_hfcxhl.jpg",
     name: "Mehndi Oil",
   },
 ];
