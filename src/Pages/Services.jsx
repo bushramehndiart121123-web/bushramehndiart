@@ -16,7 +16,7 @@ export const services = [
       "Feet bridal mehendi",
       "Customised bridal themes (Dulha–Dulhan, name initials, portraits)"
     ],
-    img: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764088932/6_kbsspt.jpg",
+    img: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766246526/5_zbiruh.jpg",
     path: "/bridal-images"
   },
   {
@@ -27,7 +27,7 @@ export const services = [
       "Minimal & stylish designs",
       "Personalized ring ceremony designs"
     ],
-    img: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089039/5_wcydrc.jpg",
+    img: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338416/4_zoheue.jpg",
     path: "/engagement-roka-images"
   },
   {
@@ -38,7 +38,7 @@ export const services = [
       "Fast & simple designs for multiple guests",
       "Per-hand / per-person packages"
     ],
-    img: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089070/1_cx8pzh.jpg",
+    img: "https://res.cloudinary.com/dmjbqor7r/image/upload/v1766338753/4_uborqh.jpg",
     path: "/sangeet-weddingguest-images"
   },
   {
@@ -49,7 +49,7 @@ export const services = [
       "Shaded designs",
       "Bold outline patterns"
     ],
-    img: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089161/1_vif52q.jpg",
+    img: "https://res.cloudinary.com/draysylxa/image/upload/v1766246812/2_zrbl8d.jpg",
     path: "/arabic-images"
   },
   {
@@ -60,7 +60,7 @@ export const services = [
       "Rajasthani designs",
       "Detailed cultural patterns"
     ],
-    img: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089119/1_k8rdeb.jpg",
+    img: "https://res.cloudinary.com/draysylxa/image/upload/v1766247740/6_sutyaa.jpg",
     path: "/indian-traditional-images"
   },
   {
@@ -70,7 +70,7 @@ export const services = [
       "Mix of Indian + Arabic",
       "Modern & trendy patterns"
     ],
-    img: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089429/1_zqqfzd.jpg",
+    img: "https://res.cloudinary.com/draysylxa/image/upload/v1766247776/5_m7jzjg.jpg",
     path: "/indo-arabic-fusion-images"
   },
   {
@@ -81,7 +81,7 @@ export const services = [
       "Customized faces or themes",
       "(High-skill premium service)"
     ],
-    img: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089655/4_tsmshu.jpg",
+    img: "https://res.cloudinary.com/draysylxa/image/upload/v1766247810/6_w305jz.jpg",
     path: "/portrait-images"
   },
   {
@@ -91,7 +91,7 @@ export const services = [
       "Baby shower themed designs",
       "Minimal & cute patterns"
     ],
-    img: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089239/1_i8nd3v.jpg",
+    img: "https://res.cloudinary.com/draysylxa/image/upload/v1766246864/5_ma2dyc.jpg",
     path: "/babyshower-godhbharai-images"
   },
   {
@@ -101,7 +101,7 @@ export const services = [
       "Karwa Chauth, Teej, Diwali, Eid, Navratri",
       "Festival-special packages"
     ],
-    img: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089677/6_ahr9ug.jpg",
+    img: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415639/5_gtzjl1.jpg",
     path: "/festival-images"
   },
   {
@@ -111,7 +111,7 @@ export const services = [
       "Names, Initials, Dates",
       "Symbols, Couple story designs"
     ],
-    img: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089277/5_fiadwn.jpg",
+    img: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415628/6_jwp2bf.jpg",
     path: "/customized-images"
   },
   {
@@ -121,7 +121,7 @@ export const services = [
       "Simple and cute patterns",
       "Fast application"
     ],
-    img: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764088996/3_yyl374.jpg",
+    img: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415659/6_svdqcc.jpg",
     path: "/mehendi-for-kids-images"
   },
   {
@@ -131,7 +131,7 @@ export const services = [
       "Basic mehendi course",
       "Advance bridal mehendi course"
     ],
-    img: "https://res.cloudinary.com/dxahh0nqj/image/upload/v1764089536/5_o5qbra.jpg",
+    img: "https://res.cloudinary.com/ddnzc0ekd/image/upload/v1766415784/6_zkbuo0.jpg",
     path: "/mehendi-classes-workshops-images"
   },
 ];
