@@ -30,7 +30,7 @@ export default function HomeHeroSection() {
          
         }}
       >
-        <source src="https://res.cloudinary.com/dxahh0nqj/video/upload/v1764094587/home_page_video_vvvqab.mp4" type="video/mp4" />
+        <source src="https://res.cloudinary.com/dedrf76xo/video/upload/v1766245703/1_bocbfk.mp4" type="video/mp4" />
       </video>
 
       {/* DARK OVERLAY FOR READABILITY */}
